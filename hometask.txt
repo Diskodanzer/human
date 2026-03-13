@@ -1,1 +1,12 @@
 Ветки master и demo в целом ничем не отличаются.(Видимо потому что в demo уже замерджели остальные ветки)
+Коментарии коммитов(всего 10):
+Create hometask.txt
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
